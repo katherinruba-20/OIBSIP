@@ -1,6 +1,6 @@
 #OIBSIP
 
-# Task 1: ATM Interface 💳
+Task 1: ATM Interface 💳
 
 DESCRIPTION:
 This project simulates an ATM Interface system using Java. 
@@ -21,7 +21,7 @@ TECHNOLOGIES USED:
  #DEMO VIDEO:
  https://drive.google.com/file/d/15nEPu_4b7oAIo-NqbuVuWaQMOhU6f638/view?usp=sharing
 
- # TASK 2: Number Guessing Game 🎯
+ TASK 2: Number Guessing Game 🎯
 
 DESCRIPTION:
 This project is a simple Number Guessing Game developed using Java. 
